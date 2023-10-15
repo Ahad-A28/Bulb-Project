@@ -1,0 +1,21 @@
+.bulb{
+    height: 300px;
+    width: 300px;
+    background-color:transparent;
+    border: 3px black solid;
+    border-radius: 50%;
+    position: relative;
+    left: 80px;
+}
+button{
+    margin:100px ;
+    padding: 10px;
+    border-radius: 5px;
+    background-color: aqua;
+}
+.of{
+    margin:100px ;
+    padding: 10px;
+    border-radius: 5px;
+    background-color: aqua;
+}
