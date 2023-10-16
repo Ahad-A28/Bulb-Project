@@ -1,0 +1,22 @@
+.bulb {
+    height: 300px;
+    width: 300px;
+    border: 3px solid black;
+    border-radius: 50%;
+    background-color: transparent;
+
+}
+
+button {
+    background-color: green;
+    height: 50px;
+    width: 50px;
+    margin: 100px;
+    padding: 10px;
+    border-radius: 8px;
+}
+h3{
+    position: relative;
+     left: 100px;
+     font-size: 38px;
+}
